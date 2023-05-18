@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d247a0-8b4b-4b44-9837-b4602ca8f39b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveZeros283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+    <list default="true" id="64d247a0-8b4b-4b44-9837-b4602ca8f39b" name="Changes" comment="leetcode solutions">
+      <change afterPath="$PROJECT_DIR$/src/Array2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstLetterToAppearTwice2351.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MajorityElement169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MedianOfSortedArray4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseInteger7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UncrossedLines1035.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +45,46 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoSum167">
-    <configuration name="MoveZeros283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoveZeros283" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UncrossedLines1035">
+    <configuration name="Array2007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2007" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum167" />
+    <configuration name="FirstLetterToAppearTwice2351" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstLetterToAppearTwice2351" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MajorityElement169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MajorityElement169" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlidingWindowMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindowMaximum" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UncrossedLines1035" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UncrossedLines1035" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSum167" />
-        <item itemvalue="Application.MoveZeros283" />
+        <item itemvalue="Application.UncrossedLines1035" />
+        <item itemvalue="Application.SlidingWindowMaximum" />
+        <item itemvalue="Application.Array2007" />
+        <item itemvalue="Application.FirstLetterToAppearTwice2351" />
+        <item itemvalue="Application.MajorityElement169" />
       </list>
     </recent_temporary>
   </component>
@@ -79,6 +109,70 @@
       <option name="presentableId" value="Default" />
       <updated>1665172190674</updated>
     </task>
+    <task id="LOCAL-00001" summary="leetcode problem solution">
+      <created>1665220765575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665220765575</updated>
+    </task>
+    <task id="LOCAL-00002" summary="344. Reverse String">
+      <created>1665222111227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665222111227</updated>
+    </task>
+    <task id="LOCAL-00003" summary="557. Reverse Words in a String III">
+      <created>1665241374017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665241374017</updated>
+    </task>
+    <task id="LOCAL-00004" summary="876. Middle of the Linked List">
+      <created>1665242268831</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665242268831</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3. Longest Substring Without Repeating Characters">
+      <created>1665400236061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665400236061</updated>
+    </task>
+    <task id="LOCAL-00006" summary="231. Power of Two">
+      <created>1665400370505</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665400370507</updated>
+    </task>
+    <task id="LOCAL-00007" summary="count 1's from number">
+      <created>1665402755010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665402755011</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Leetcode solution for 4 problems">
+      <created>1670141176444</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670141176444</updated>
+    </task>
+    <task id="LOCAL-00009" summary="26. Remove Duplicates from Sorted Array">
+      <created>1670141911563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670141911563</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,79 +180,119 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode problem solution" />
+    <MESSAGE value="344. Reverse String" />
+    <MESSAGE value="557. Reverse Words in a String III" />
+    <MESSAGE value="876. Middle of the Linked List" />
+    <MESSAGE value="3. Longest Substring Without Repeating Characters" />
+    <MESSAGE value="231. Power of Two" />
+    <MESSAGE value="count 1's from number" />
+    <MESSAGE value="Leetcode solution for 4 problems" />
+    <MESSAGE value="26. Remove Duplicates from Sorted Array" />
+    <MESSAGE value="leetcode solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode solutions" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoveZeros283.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/ReverseString344.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoveZeros283.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/ReverseString344.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoveZeros283.java</url>
+          <url>file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray81.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MajorityElement169.java</url>
           <line>11</line>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoveZeros283.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/FirstLetterToAppearTwice2351.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoveZeros283.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/FirstLetterToAppearTwice2351.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoveZeros283.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoveZeros283.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwoSum167.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwoSum167.java</url>
+          <url>file://$PROJECT_DIR$/src/Array2007.java</url>
           <line>7</line>
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwoSum167.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/Array2007.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwoSum167.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/SlidingWindowMaximum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwoSum167.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/src/UncrossedLines1035.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TwoSum167.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="13" />
+          <url>file://$PROJECT_DIR$/src/UncrossedLines1035.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UncrossedLines1035.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UncrossedLines1035.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UncrossedLines1035.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UncrossedLines1035.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UncrossedLines1035.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
