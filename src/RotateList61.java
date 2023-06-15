@@ -1,13 +1,4 @@
 public class RotateList61 {
-
-    public static void main(String[] args) {
-        ListNode head = new ListNode(1, new ListNode(2, null));
-        ListNode listNode = rotateRight(head, 1);
-        while(listNode !=null){
-            System.out.println(listNode.val);
-            listNode = listNode.next;
-        }
-    }
     public static class ListNode {
       int val;
       ListNode next;
@@ -16,7 +7,7 @@ public class RotateList61 {
       ListNode(int val, ListNode next) { this.val = val; this.next = next; }
   }
 
-    public static ListNode rotateRight(ListNode head, int k) {
+    public ListNode rotateRight(ListNode head, int k) {
         int count = 0, length=0;
         ListNode tempForLength = head;
         while(tempForLength != null){
