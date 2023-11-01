@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class RemoveDuplicatesFromSortedArray26 {
 
 //     Input: nums = [0,0,1,1,1,2,2,3,3,4]
@@ -7,7 +9,7 @@ public class RemoveDuplicatesFromSortedArray26 {
 
     public static void main(String[] args) {
         int arr[] = {0,0,1,1,1,2,2,3,3,4};
-        int result = removeDuplicates(arr);
+        int result = removeDuplicate(arr);
         System.out.println(result);
     }
 
@@ -24,6 +26,19 @@ public class RemoveDuplicatesFromSortedArray26 {
         }
         return start+1;
 
+    }
+
+    public static int removeDuplicate(int[] nums) {
+        int index = 0;
+
+        for(int i=1; i<nums.length; i++){
+            if(nums[index] != nums[i]){
+                index++;
+                nums[index] = nums[i];
+            }
+        }
+
+        return index+1;
     }
 
 }
